@@ -1,5 +1,5 @@
-from scripts.skillfactory.PetFriendsApiTests.api import PetFriends
-from scripts.skillfactory.PetFriendsApiTests.settings import *
+from api import PetFriends
+from settings import *
 import os
 
 
